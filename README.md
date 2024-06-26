@@ -31,6 +31,9 @@ I carry 10+ years of experience working as a software and web developer I have e
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaharsh1991" alt="sharmaharsh1991" /></a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaharsh1991&show_icons=true&locale=en&layout=compact" alt="sharmaharsh1991" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaharsh1991&show_icons=true&locale=en" alt="sharmaharsh1991" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaharsh1991&" alt="sharmaharsh1991" /></p> 
 
-### 📫 How to reach me: [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/vardhanharsh998/) 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/sharmaharsh1991" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vardhanharsh998/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+/></a>
+</p>
 
 
