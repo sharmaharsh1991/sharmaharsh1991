@@ -2,30 +2,29 @@
 
 I carry 10+ years of experience working as a software and web developer I have encountered a number of different projects and positions. My flexible nature has always been a plus in my work as I can learn new systems very fast and adapt to virtually any working environment. The combination of my programming, communication and management skills have helped me to successfully deliver projects on time with high quality.
 
-𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 :
-
-✔️ 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱:
-Laravel, Livewire, Node.JS, Nest.js, Express.JS, Mongoose, Meteor.JS
-
-✔️ 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱:
-Vue.js, React, Nuxtjs, Redux, TypeScript, Vue router, Next.js.
-
-✔️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲:
-MySQL, MongoDB, PostgreSQL, MySQL, Firebase
-
-✔️ 𝗖𝗦𝗦 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸:
-MUI, Bootstrap, Tailwind, Ant Design, Materialize UI
-
-✔️ 𝗔𝗣𝗜𝘀:
-Stripe, PayPal, FB, Google, Firebase, Sentry, Amazon Web Services etc.
-
-✔️ 𝗧𝗼𝗼𝗹𝘀:
-Jira, Trello, WebStorm, VS Code
-
-✔️ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹
-Github, Bitbucket, Gitlab
-
-### 📫 How to reach me: [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/vardhanharsh998/) 
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 <p align="left"> </p> ## GitHub Stats <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaharsh1991&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaharsh1991" /> </p> <p align="left"> 
 
