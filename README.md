@@ -6,22 +6,16 @@ I carry 10+ years of experience working as a software and web developer I have e
 
 ✔️ 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱:
 Laravel, Livewire, Node.JS, Nest.js, Express.JS, Mongoose, Meteor.JS
-
-✔ 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱:
+✔️ 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱:
 Vue.js, React, Nuxtjs, Redux, TypeScript, Vue router, Next.js.
-
 ✔️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲:
 MySQL, MongoDB, PostgreSQL, MySQL, Firebase
-
-✔ 𝗖𝗦𝗦 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸:
+✔️ 𝗖𝗦𝗦 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸:
 MUI, Bootstrap, Tailwind, Ant Design, Materialize UI
-
 ✔️ 𝗔𝗣𝗜𝘀:
 Stripe, PayPal, FB, Google, Firebase, Sentry, Amazon Web Services etc.
-
 ✔️ 𝗧𝗼𝗼𝗹𝘀:
 Jira, Trello, WebStorm, VS Code
-
 ✔️ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹
 Github, Bitbucket, Gitlab
 
