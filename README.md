@@ -26,9 +26,11 @@ I carry 10+ years of experience working as a software and web developer I have e
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p align="left"> </p> ## GitHub Stats <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaharsh1991&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaharsh1991" /> </p> <p align="left"> 
+<h3>GitHub Stats</h3>
+<img src="https://komarev.com/ghpvc/?username=sharmaharsh1991&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaharsh1991" /> </p> <p align="left"> 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaharsh1991" alt="sharmaharsh1991" /></a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaharsh1991&show_icons=true&locale=en&layout=compact" alt="sharmaharsh1991" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaharsh1991&show_icons=true&locale=en" alt="sharmaharsh1991" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaharsh1991&" alt="sharmaharsh1991" /></p> 
 
+### 📫 How to reach me: [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/vardhanharsh998/) 
 
 
